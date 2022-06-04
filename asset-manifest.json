@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-mobile-store/static/css/main.57656b2e.chunk.css",
-    "main.js": "/react-mobile-store/static/js/main.ef0fb278.chunk.js",
-    "main.js.map": "/react-mobile-store/static/js/main.ef0fb278.chunk.js.map",
-    "runtime-main.js": "/react-mobile-store/static/js/runtime-main.6628221e.js",
-    "runtime-main.js.map": "/react-mobile-store/static/js/runtime-main.6628221e.js.map",
-    "static/css/2.266e55a5.chunk.css": "/react-mobile-store/static/css/2.266e55a5.chunk.css",
-    "static/js/2.1a23ba2b.chunk.js": "/react-mobile-store/static/js/2.1a23ba2b.chunk.js",
-    "static/js/2.1a23ba2b.chunk.js.map": "/react-mobile-store/static/js/2.1a23ba2b.chunk.js.map",
-    "index.html": "/react-mobile-store/index.html",
-    "precache-manifest.0bb3b1ed1fdbe172fdf50d913155f36c.js": "/react-mobile-store/precache-manifest.0bb3b1ed1fdbe172fdf50d913155f36c.js",
-    "service-worker.js": "/react-mobile-store/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/react-mobile-store/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.57656b2e.chunk.css.map": "/react-mobile-store/static/css/main.57656b2e.chunk.css.map",
-    "static/media/logo.svg": "/react-mobile-store/static/media/logo.9f7e506d.svg"
+    "main.css": "/static/css/main.57656b2e.chunk.css",
+    "main.js": "/static/js/main.c1c2cd1f.chunk.js",
+    "main.js.map": "/static/js/main.c1c2cd1f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0bfa4056.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0bfa4056.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.867b6a71.chunk.js": "/static/js/2.867b6a71.chunk.js",
+    "static/js/2.867b6a71.chunk.js.map": "/static/js/2.867b6a71.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b4765a647606e43e300f8d587c87ad21.js": "/precache-manifest.b4765a647606e43e300f8d587c87ad21.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.57656b2e.chunk.css.map": "/static/css/main.57656b2e.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.9f7e506d.svg"
   }
 }
